@@ -1,5 +1,3 @@
-package org.example;
-
 public class Tutorial6Q1b
 {
     public static boolean square(int n)
