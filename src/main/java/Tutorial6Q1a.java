@@ -1,4 +1,4 @@
-public class Tutorial6Q1
+public class Tutorial6Q1a
 {
     public static int maxNum(int a, int b, int c)
     {
